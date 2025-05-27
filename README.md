@@ -1,2 +1,2 @@
 # Gamepad
-Gamepad with USB interface.
+Gamepad Hardware Design Files with STM32 and USB interface.
